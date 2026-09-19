@@ -4,9 +4,9 @@ Group 07, CSE370 Lab Section 13, Summer 2026
 
 | ID | Name | Module |
 |---|---|---|
-| 23201253 | Fahima Kamal Pranty | Blood Donation Management |
-| 23201401 | Humayra Adiba | Ambulance Dispatch Management |
-| 24101510 | Mohammad Arfin | Hospital Bed and Emergency Coordination |
+| XXXXXXXX | Fahima Kamal Pranty | Blood Donation Management |
+| XXXXXXXX | Humayra Adiba | Ambulance Dispatch Management |
+| XXXXXXXX | Mohammad Arfin | Hospital Bed and Emergency Coordination |
 
 ## Local XAMPP setup
 
